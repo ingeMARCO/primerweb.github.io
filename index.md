@@ -1,3 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>mi primer web MOOC linux</title>
+        <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+    <h1>Bienvenidos a mi primer sitio web!</h1>
+    <h2>Yo soy:</h2>
+    <h3>Marco Rivera</h3>
+    <p>Cada día quedo más y más admirado del imparable avance de la tecnología con mucha felicidad deseando que esta tecnología lleve progreso a la mayoría de personas y solamente ruego que esta tecnología no sea usada en lastimar ni perjudicar al resto de seres</p>
+
+    <p>Como especialista en contrataciones y fiel seguidor de la tecnología estoy a cargo de la páginá de la: <a href="https://contrataciones.org" target="_blank">Escuela de Contrataciones</a>.</p>
+
+    <p>La <a href="https://contrataciones.org" target="_blank">Escuela de Contrataciones</a> proporcina información de vanguardia mediante el empleo de Tecnologías de la Información</p>
+
+    <h1>Coparto uno de los múltiples videos tutoriales</h1>
+    <aside>
+      <iframe width="560" height="315" 
+      src="   https://www.youtube.com/embed/ybaeujZ7nyA?autohide=0"  
+      allowfullscreen></iframe>
+    </aside>
+  </body>
+</html>
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ingeMARCO/primerweb.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
